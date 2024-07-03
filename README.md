@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 <p>I am a professional transitioning into the web development sector, with a solid work experience in other fields that has strengthened my ability to adapt to different environments and challenges. My strong commitment to learning and growing in frontend and backend technologies drives me to face new challenges in the development of dynamic and scalable web applications. I stand out for my perseverance and dedication to overcoming obstacles and achieving goals. This previous experience has taught me to quickly adapt to changes and new environments, allowing me to approach projects with flexibility and efficiency.</p>
 
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<h3>Languages and tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <p>Frontend</p>
     <img src="https://skillicons.dev/icons?i=js,angular,react,ts" />
     <br>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,css,html" />
