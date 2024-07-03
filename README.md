@@ -23,17 +23,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <p>Frontend</p>
     <img src="https://skillicons.dev/icons?i=js,angular,react,ts" />
-    <br>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,css,html" />
     <br>
      <img src="https://skillicons.dev/icons?i=php,symfony,nodejs,express" />
-    <br>
      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman" />
     <br>
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
-     <br>
     <img src="https://skillicons.dev/icons?i=vite,npm,github,git" />
      <br>
     <img src="https://skillicons.dev/icons?i=aws,vscode,idea,sass,docker" />
