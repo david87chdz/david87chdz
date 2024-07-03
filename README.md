@@ -47,9 +47,10 @@ Here are some ideas to get you started:
   
 
 <!-- Para el wata time
+![david87chdz wakatime stats]
  -->
 <div align="center">
-![david87chdz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=david87chdz&layout=compact&theme=radical)
+(https://github-readme-stats.vercel.app/api/wakatime?username=david87chdz&layout=compact&theme=radical)
 </div>
 
 <p align="center">
