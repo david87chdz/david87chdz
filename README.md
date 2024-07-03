@@ -22,3 +22,21 @@ Here are some ideas to get you started:
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=david87chdz&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david87chdz&theme=dark&layout=compact" width="410" /></p>
+
+
+<div align="center">
+  
+
+![david87chdz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=david87chdz&layout=compact&theme=radical)
+
+
+</div>
+
+
+<p align="center">
+
+<a href="https://github.com/FahimFBA/github-readme-twitter">
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=david87chdz&layout=wide&show_reply=off&show_retweet=off" />
+</a>
+
+</p>
