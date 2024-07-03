@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
+<h1>Bienvenid@s a mi perfil de Github</h1>
+<h2>Me llamo David Cerezo Hernández</h2>
+<p></p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-
-<h3> Here's some fun facts about me: </h3>
+### ⚙️ &nbsp; Git Analytics
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=david87chdz&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david87chdz&theme=dark&layout=compact" width="410" /></p>
