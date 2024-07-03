@@ -47,11 +47,15 @@ Here are some ideas to get you started:
   
 
 <!-- Para el wata time
-![david87chdz wakatime stats]
- -->
 <div align="center">
-(https://github-readme-stats.vercel.app/api/wakatime?username=david87chdz&layout=compact&theme=radical)
+![david87chdz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=david87chdz&layout=compact&theme=radical)
 </div>
+ -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=david87chdz&layout=compact&theme=radical" alt="david87chdz wakatime stats"/>
+</p>
+
 
 <p align="center">
 
