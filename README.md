@@ -23,9 +23,19 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,git,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,angular,react,ts" />
     <br>
-     <img src="https://skillicons.dev/icons?i=angular,git,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,css,html,sass" />
+    <br>
+     <img src="https://skillicons.dev/icons?i=php,symfony,nodejs,express" />
+    <br>
+     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+     <br>
+    <img src="https://skillicons.dev/icons?i=vite,npm,github,docker" />
+     <br>
+    <img src="https://skillicons.dev/icons?i=aws,vscode,idea,git,docker" />
   </a>
 </p>
 ### ⚙️ &nbsp; Git Analytics
