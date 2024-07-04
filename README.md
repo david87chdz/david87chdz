@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <li>👯 I’m looking to collaborate on open-source projects related to web development or data science.</li>
   <li>🤔 I’m looking for help with mastering algorithms and data structures for technical interviews.</li>
   <li>💬 Ask me about my projects or anything related to web development!</li>
-  <li>📫 How to reach me: [Your Email](mailto:your_email@example.com), [LinkedIn](https://www.linkedin.com/in/david-cerezo-hernandez/)</li>
+  <li>📫 How to reach me: [Your Email](mailto:david87chdz@gmail.com), [LinkedIn](https://www.linkedin.com/in/david-cerezo-hernandez/)</li>
   <li>⚡ Fun fact: I enjoy spending time with my family, friends, dogs, playing sports, playing guitar, and listening to music!</li>
 </ul>
 
