@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br><br>
 <h3>⚙️ &nbsp; Git Analytics</h3
 
- <div>
+ <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=david87chdz&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david87chdz&theme=dark&layout=compact" width="410" /></p>
 </div>
