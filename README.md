@@ -21,24 +21,18 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<ul>
-  <li>🔭 I’m currently working on enhancing my skills in web development and improving my English.</li>
-  <li>🌱 I’m currently learning React.js and Node.js to deepen my full-stack capabilities.</li>
-  <li>👯 I’m looking to collaborate on open-source projects related to web development or data science.</li>
-  <li>🤔 I’m looking for help with mastering algorithms and data structures for technical interviews.</li>
-  <li>💬 Ask me about my projects or anything related to web development!</li>
-  <li>📫 How to reach me: [Your Email](mailto:david87chdz@gmail.com), [LinkedIn](https://www.linkedin.com/in/david-cerezo-hernandez/)</li>
-  <li>⚡ Fun fact: I enjoy spending time with my family, friends, dogs, playing sports, playing guitar, and listening to music!</li>
-</ul>
 
-
-
-
-
-
-
+- 🔭 I’m currently working on enhancing my skills in web development.
+- 🌱 I’m currently learning React.js and Node.js to deepen my full-stack capabilities.
+- 👯 I’m looking to collaborate on open-source projects related to web development or data science.
+- 🤔 I’m looking for help with mastering algorithms and data structures for technical interviews.
+- 💬 Ask me about my projects or anything related to web development!
+- 📫 How to reach me: [Your Email](mailto:david87chdz@gmail.com), [LinkedIn](https://www.linkedin.com/in/david-cerezo-hernandez/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles and playing chess in my free time!
 
 </div>
+
 <br>
 
 <h4 align="center">Languages and tools</h4>
