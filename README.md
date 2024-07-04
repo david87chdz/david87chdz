@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-- 🔭 I’m currently working on enhancing my skills in web development and improving my English.
-- 🌱 I’m currently learning React.js and Node.js to deepen my full-stack capabilities.
-- 👯 I’m looking to collaborate on open-source projects related to web development or data science.
-- 🤔 I’m looking for help with mastering algorithms and data structures for technical interviews.
-- 💬 Ask me about my projects or anything related to web development!
-- 📫 How to reach me: [Your Email](mailto:your_email@example.com), [LinkedIn](https://www.linkedin.com/in/your_username)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy spending time with my family, friends, dogs, playing sports, playing guitar, and listening to music!
+🔭 I’m currently working on enhancing my skills in web development and improving my English.
+🌱 I’m currently learning React.js and Node.js to deepen my full-stack capabilities.
+👯 I’m looking to collaborate on open-source projects related to web development or data science.
+🤔 I’m looking for help with mastering algorithms and data structures for technical interviews.
+💬 Ask me about my projects or anything related to web development!
+📫 How to reach me: [Your Email](mailto:your_email@example.com), [LinkedIn](https://www.linkedin.com/in/david-cerezo-hernandez/)
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy spending time with my family, friends, dogs, playing sports, playing guitar, and listening to music!
 
 </div>
 <br>
