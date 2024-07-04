@@ -49,9 +49,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@david87chdz&layout=compact&theme=radical" alt="david87chdz wakatime stats"/>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/FahimFBA/github-readme-twitter">
