@@ -43,6 +43,30 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david87chdz&theme=dark&layout=compact" width="410" /></p>
 </div>
 
+<br><br>
+
+<h3>⚙️ &nbsp; Git Analytics</h3>
+
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=david87chdz&theme=dark&show_icons=true" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david87chdz&theme=dark&layout=compact" width="410" /></p>
+</div>
+
+<!-- Para el wakatime stats
+<div align="center">
+  ![david87chdz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=david87chdz&layout=compact&theme=radical)
+</div>
+-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@david87chdz&layout=compact&theme=radical" alt="david87chdz wakatime stats"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FahimFBA/github-readme-twitter">
+    <img src="https://github-readme-twitter.gazf.vercel.app/api?id=david87chdz&layout=wide&show_reply=off&show_retweet=off" />
+  </a>
+</p>
 
   
 
