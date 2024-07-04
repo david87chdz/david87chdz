@@ -47,11 +47,7 @@ Here are some ideas to get you started:
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david87chdz&theme=dark&layout=compact" width="410" /></p>
 </div>
 
-<!-- Para el wakatime stats
-<div align="center">
-  ![david87chdz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=david87chdz&layout=compact&theme=radical)
-</div>
--->
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@david87chdz&layout=compact&theme=radical" alt="david87chdz wakatime stats"/>
@@ -76,10 +72,4 @@ Here are some ideas to get you started:
 </p>
 
 
-<!--<p align="center">
 
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=david87chdz&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-
-</p> -->
