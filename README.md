@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 <!--
 **david87chdz/david87chdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<h1 align="center">Welcome to my Github profile</h1>
-<h2>My name´s David Cerezo Hernández</h2>
+<h2 align="center">Welcome to my Github profile</h3>
+<h3>My name´s David Cerezo Hernández</h3>
 <p>I am a professional transitioning into the web development sector, with a solid work experience in other fields that has strengthened my ability to adapt to different environments and challenges. My strong commitment to learning and growing in frontend and backend technologies drives me to face new challenges in the development of dynamic and scalable web applications. I stand out for my perseverance and dedication to overcoming obstacles and achieving goals. This previous experience has taught me to quickly adapt to changes and new environments, allowing me to approach projects with flexibility and efficiency.</p>
 </div>
 
-<h3>Languages and tools</h3>
+<h4 align="center">Languages and tools</h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
