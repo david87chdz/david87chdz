@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my projects or anything related to web development!
 - 📫 How to reach me: [Email](mailto:david87chdz@gmail.com), [LinkedIn](https://www.linkedin.com/in/david-cerezo-hernandez/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and playing chess in my free time!
+- ⚡ Fun fact: I love spending my free time with my family (including my two wonderful dogs) and friends, playing sports, reading, playing the guitar, and listening to music!
 
 </div>
 
