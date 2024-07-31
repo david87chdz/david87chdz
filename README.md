@@ -141,11 +141,7 @@
   </p>
 </div>
 
-<div align="center">
-  <a href="https://github.com/FahimFBA/github-readme-twitter" target="_blank">
-    <img src="https://github-readme-twitter.gazf.vercel.app/api?id=david87chdz&layout=wide&show_reply=off&show_retweet=off" alt="Twitter Feed" />
-  </a>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@david87chdz&layout=compact&theme=radical" alt="Wakatime Stats"/>
