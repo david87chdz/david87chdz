@@ -97,8 +97,8 @@
   
   <h4>📫 How to reach me:</h4>
   <p>
-    [Email](mailto:david87chdz@gmail.com) • 
-    [LinkedIn](https://www.linkedin.com/in/david-cerezo-hernandez/)
+    <a href="mailto:david87chdz@gmail.com">Email</a> • 
+    <a href="https://www.linkedin.com/in/david-cerezo-hernandez/" target="_blank">LinkedIn</a>
   </p>
   
   <h4>😄 Pronouns:</h4>
@@ -141,15 +141,16 @@
   </p>
 </div>
 
-<p align="center">
-  <a href="https://github.com/FahimFBA/github-readme-twitter">
+<div align="center">
+  <a href="https://github.com/FahimFBA/github-readme-twitter" target="_blank">
     <img src="https://github-readme-twitter.gazf.vercel.app/api?id=david87chdz&layout=wide&show_reply=off&show_retweet=off" alt="Twitter Feed" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@david87chdz&layout=compact&theme=radical" alt="Wakatime Stats"/>
-</p>
+</div>
+
 
 
 
