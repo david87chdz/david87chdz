@@ -84,7 +84,7 @@
   <p>Enhancing my skills in web development.</p>
   
   <h4>🌱 I’m currently learning:</h4>
-  <p>React.js and Node.js to deepen my full-stack capabilities.</p>
+  <p>React.js, Python, AWS to deepen my full-stack capabilities.</p>
   
   <h4>👯 I’m looking to collaborate on:</h4>
   <p>Open-source projects related to web development or data science.</p>
@@ -125,7 +125,7 @@
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java, Spring, Hibernate, Maven" />
     <img src="https://skillicons.dev/icons?i=vite,npm,github,git" alt="Vite, npm, GitHub, Git" />
     <br>
-    <img src="https://skillicons.dev/icons?i=aws,vscode,idea,sass,docker" alt="AWS, VSCode, IntelliJ IDEA, Sass, Docker" />
+    <img src="https://skillicons.dev/icons?i=python,aws,vscode,idea,sass,docker" alt="Python, AWS, VSCode, IntelliJ IDEA, Sass, Docker" />
   </a>
 </p>
 
