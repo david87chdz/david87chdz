@@ -10,7 +10,7 @@
 <div align="center">
 
 - 🔭 I’m currently working on enhancing my skills in web development.
-- 🌱 I’m currently learning React.js and Node.js to deepen my full-stack capabilities.
+- 🌱 I’m currently learning React.js, AWS, Python and Node.js to deepen my full-stack capabilities.
 - 👯 I’m looking to collaborate on open-source projects related to web development or data science.
 - 🤔 I’m looking for help with mastering algorithms and data structures for technical interviews.
 - 💬 Ask me about my projects or anything related to web development!
