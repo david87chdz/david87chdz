@@ -131,7 +131,7 @@
 
 <br>
 
-<div align="center">
+<!--<div align="center">
   <h3>⚙️ &nbsp; GitHub Analytics</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=david87chdz&theme=dark&show_icons=true" alt="GitHub Stats" />
@@ -139,7 +139,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david87chdz&theme=dark&layout=compact" width="410" alt="Top Languages" />
   </p>
-</div>
+</div> -->
 
 
 
