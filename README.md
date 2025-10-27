@@ -143,10 +143,11 @@
 
 
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@david87chdz&layout=compact&theme=radical" alt="Wakatime Stats"/>
 </div>
-
+-->
 
 
 
